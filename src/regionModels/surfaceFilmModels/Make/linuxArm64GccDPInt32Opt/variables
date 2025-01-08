@@ -1,5 +1,0 @@
-workDir=$(SRC_ORIG)/regionModels/surfaceFilmModels
-KINEMATICMODELS=$(workDir)/submodels/kinematic
-THERMOMODELS=$(workDir)/submodels/thermo
-PATCHFIELDS=$(workDir)/derivedFvPatchFields
-LIB = $(DF_LIBBIN)/libdfSurfaceFilmModels

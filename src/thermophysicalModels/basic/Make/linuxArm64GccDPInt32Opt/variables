@@ -1,2 +1,0 @@
-workDir = $(SRC_ORIG)/thermophysicalModels/basic/
-LIB = $(DF_LIBBIN)/libdfFluidThermophysicalModels

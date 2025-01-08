@@ -1,6 +1,0 @@
-dfDynamicRefineFvMesh/multiCritRefinement.C
-dfDynamicRefineFvMesh/dfDynamicRefineFvMesh.C
-
-dfRefinementHistoryConstraint/dfRefinementHistoryConstraint.C
-
-LIB = $(DF_LIBBIN)/libdfDynamicFvMesh

@@ -1,2 +1,0 @@
-workDir=$(SRC_ORIG)/functionObjects/field
-LIB = $(DF_LIBBIN)/libdfFieldFunctionObjects

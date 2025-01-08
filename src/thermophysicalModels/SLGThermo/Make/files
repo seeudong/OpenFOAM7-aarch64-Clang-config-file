@@ -1,3 +1,0 @@
-SLGThermo/SLGThermo.C
-
-LIB = $(DF_LIBBIN)/libdfSLGThermo

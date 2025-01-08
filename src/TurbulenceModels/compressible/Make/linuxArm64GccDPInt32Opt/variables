@@ -1,3 +1,0 @@
-workDir = $(SRC_ORIG)/TurbulenceModels/compressible/
-BCs = $(workDir)/turbulentFluidThermoModels/derivedFvPatchFields
-LIB = $(DF_LIBBIN)/libdfCompressibleTurbulenceModels
