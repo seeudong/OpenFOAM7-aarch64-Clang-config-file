@@ -1,0 +1,2 @@
+c++DBUG     =
+c++OPT      = -w -O3 -march=armv8.2-a -mcpu=tsv110 #-flto -fuse-ld=lld #-flto -mcpu=linxicore9100 -enable-loop-split=false
