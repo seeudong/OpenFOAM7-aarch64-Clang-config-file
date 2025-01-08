@@ -1,0 +1,8 @@
+DERIVEDPARCELS=$(SRC_ORIG)/lagrangian/turbulence/parcels/derived
+KINEMATICPARCEL=$(DERIVEDPARCELS)/basicKinematicParcel
+KINEMATICCOLLIDINGPARCEL=$(DERIVEDPARCELS)/basicKinematicCollidingParcel
+THERMOPARCEL=$(DERIVEDPARCELS)/basicThermoParcel
+REACTINGPARCEL=$(DERIVEDPARCELS)/basicReactingParcel
+REACTINGMPPARCEL=$(DERIVEDPARCELS)/basicReactingMultiphaseParcel
+KINEMATICMPPICPARCEL=$(DERIVEDPARCELS)/basicKinematicMPPICParcel
+LIB = $(DF_LIBBIN)/libdfLagrangianTurbulence

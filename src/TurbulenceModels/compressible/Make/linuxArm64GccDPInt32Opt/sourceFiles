@@ -1,0 +1,4 @@
+SOURCE = \
+$(workDir)/compressibleTurbulenceModel.C \
+$(workDir)/turbulentFluidThermoModels/turbulentFluidThermoModels.C \
+$(workDir)turbulentFluidThermoModels/derivedFvPatchFields/wallFunctions/alphatWallFunctions/alphatWallFunction/alphatWallFunctionFvPatchScalarField.C 

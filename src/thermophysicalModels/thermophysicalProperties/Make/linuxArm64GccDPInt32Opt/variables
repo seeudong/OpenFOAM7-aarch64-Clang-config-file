@@ -1,0 +1,4 @@
+workDir=$(SRC_ORIG)/thermophysicalModels/thermophysicalProperties/
+NSRDSfunctions = $(workDir)/thermophysicalFunctions/NSRDSfunctions
+APIfunctions = $(workDir)/thermophysicalFunctions/APIfunctions
+LIB = $(DF_LIBBIN)/libdfThermophysicalProperties
